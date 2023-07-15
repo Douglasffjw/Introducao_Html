@@ -1,4 +1,4 @@
- > 14/07/2023 - [Criando Uma Página Web Utilizando as Tags Aprendidas](https://www.youtube.com/watch?v=YS6ouOhkyNI)
+ > 14/07/2023 - [Criando Uma Página Web Utilizando as Tags Aprendidas](https://douglasffjw.github.io/Introducao_Html/)
 
  # Estrutura Básica do HTML
 
